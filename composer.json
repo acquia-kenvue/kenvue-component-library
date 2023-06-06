@@ -1,0 +1,12 @@
+{
+    "name": "acquia-kenvue/kenvue-component-library",
+    "description": "Custom component for Eudaimonia.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "authors": [{
+        "name": "Bruno Costa",
+        "email": "bruno.costa@acquia.com"
+    }]
+}

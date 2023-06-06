@@ -1,2 +1,11 @@
-# kenvue-component-library
-Kenvue's Design System Component Library
+# Kenvue Component Library
+
+## Call to action
+Provides a simple call to action with form fields for
+- Heading text
+- Content text
+- Button text
+- Background colors
+- Font colors
+
+![Screenshot](custom_components/cta_component/preview.png)
