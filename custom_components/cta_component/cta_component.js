@@ -4,7 +4,8 @@
 
     Drupal.behaviors.ctaComponent = {
         attach: function (context) {
-            $('.cta_component').once().each(function() {
+            $(once('.cta_component', context)).each(function() {
+                
                 const content = JSON.parse($(this).attr('data-ssa-custom-component'));
 
                 const template = `
